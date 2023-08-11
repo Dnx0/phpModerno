@@ -17,6 +17,7 @@
         $snome = $_GET["sobrenome"] ?? "dos nossos" ;
         echo "<p>Bem vindo <strong>$nome $snome</strong>!</p> ";
         ?>
+        <button onclick="javascript:history.go(-1)">← Voltar</button>
     </main>
 </body>
 </html>
