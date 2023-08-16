@@ -1,10 +1,7 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conversor de moeda</title>
-    <link rel="stylesheet" href="../01form/style.css">
+<?php include'../02sucessorAntecessor/header.php'?>
+<head>   
+    <title>Conversor de moeda</title>    
 </head>
 <body>
     <header><h1>Conversor de para dolar v1.0!</h1></header>

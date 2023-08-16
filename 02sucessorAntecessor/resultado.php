@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resultado</title>
-    <link rel="stylesheet" href="../01form/style.css">
+<?php include 'header.php' ?>
+<head> 
+<title>Resultado</title>    
 </head>
 <body>
     <header>
