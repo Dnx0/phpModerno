@@ -73,38 +73,6 @@ a:hover {
     border-bottom: 1px solid #372991;
 }
 
-/* TABELAS E LISTAS */
-
-table {
-    min-width: 400px;
-    border-spacing: 0px;
-    border: 0.5px solid #372991;
-    margin: 10px auto;
-}
-
-table th {
-    background-color: #372991;
-    color: white;
-    padding: 5px;
-    text-align: left;
-}
-
-table td {
-    padding: 5px;
-}
-
-table tr {
-    background-color: rgba(55, 41, 145, 0.05);
-}
-
-table tr:nth-child(odd) {
-    background-color: rgba(55, 41, 145, 0.3);
-}
-
-ul > li::marker {
-    color: #372991;
-}
-
 /* ELEMENTOS DE FORMULÁRIO */
 
 form {
